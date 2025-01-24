@@ -83,12 +83,19 @@ class Experiences extends Component{
                         </p>
                     </div>
 
-                    {/* <div>
+                    <div>
                         <h1>UI Design Intern at Anteam</h1>
                         <p>
-                            
+                        This summer internship opportunity focused on the UI design of the Anteam mobile application. I worked in a small, agile team with techincal and marketing professionals. 
+                        We produced wireframes with a focus on improving the upcoming new feature of the app - the CO2 Rewards Program, a feature which aims to support eco-friendly and sustainable same day delivery by 
+                        rewarding delivery helpers through vouchers, money and more.
+
+                        Our team followed an agile way of teamworking with daily scrum meetings with the CEO and team members. We use Jira as our project management tool to track our activities and timelines.
+                        I provided suggestions for UI improvement through mockups for different views of the app and reported bugs in the current application. 
+                        I also took on the role of researching the integration of the Anteam application with e-Commerce platforms like WooCommerce via its REST API. 
+                        Finally, to deliver our developments, we designed a poster and delivered a presentation to employers at the Showcase Event held at the end of our internship.
                         </p>
-                    </div> */}
+                    </div>
 
             </div>
         );
