@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 35rem;
+}
+
+.pageTitle{
+    font-size: 2rem;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    position: relative;
+    left: 0px;
+}
+
+.nav{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 4rem;
+}
+
+.nav a{
+    color: inherit;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 2rem;
+    padding: 0 1rem;
+    font-size: 15px;
+    font-weight: bold;
+    /* padding: 5px 10px; */
+    transition: color 0.2s ease;
+}
+
+.nav ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+}
+
+.nav li.active{
+    color: rgb(20, 19, 19);
+}
+
+.nav li:hover{
+    color: #f0f0f0;
+}
+
+.logo img {
+    height: 40px;
+    width: auto; 
+    cursor: pointer; 
+  }

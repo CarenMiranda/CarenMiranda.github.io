@@ -1,0 +1,22 @@
+img {
+    height:400px;
+    width:auto;
+}
+
+.internship {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.fade-container {
+    width: 100%; 
+    max-width: 800px; 
+    height: 400px; 
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+.react-slideshow-container {
+    height: 100%;
+    width: 100%;
+}

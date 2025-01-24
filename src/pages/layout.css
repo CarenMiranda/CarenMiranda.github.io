@@ -1,0 +1,29 @@
+p {
+    font-family: 'Courier New', Courier, monospace
+}
+ 
+.homeParagraph{
+    font-size: 50px;
+}
+
+.pageContainer{
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.content {
+    position: relative;
+    top: 200px;
+    font-size: 20px;
+}
+
+.me {
+    width: 1000px;
+    text-align: justify;
+    position: relative;
+    top: 60px;
+    font-size: 20px;
+}
