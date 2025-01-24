@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.817f2d49.css",
-    "main.js": "/static/js/main.2efc5a22.js",
-    "static/media/ibmImage1.png": "/static/media/ibmImage1.bc58c9ac9106f8d542b0.png",
-    "static/media/ibmImage3.png": "/static/media/ibmImage3.232cce17565041c1a378.png",
-    "static/media/ibmImage2.png": "/static/media/ibmImage2.d1c445977c6ae36abd5c.png",
-    "static/media/Moon.png": "/static/media/Moon.826e55d1113c248bbbb1.png",
-    "static/media/uniImage.jpg": "/static/media/uniImage.3aa8c6ccbc7309bf0888.jpg",
-    "static/media/linkedInLogo.png": "/static/media/linkedInLogo.d0c3b64bf60bcc9af58d.png",
-    "index.html": "/index.html",
-    "main.817f2d49.css.map": "/static/css/main.817f2d49.css.map",
-    "main.2efc5a22.js.map": "/static/js/main.2efc5a22.js.map"
+    "main.css": "/carenmiranda.github.io/static/css/main.31af12d5.css",
+    "main.js": "/carenmiranda.github.io/static/js/main.b196229c.js",
+    "static/media/ibmImage1.png": "/carenmiranda.github.io/static/media/ibmImage1.bc58c9ac9106f8d542b0.png",
+    "static/media/ibmImage3.png": "/carenmiranda.github.io/static/media/ibmImage3.232cce17565041c1a378.png",
+    "static/media/ibmImage2.png": "/carenmiranda.github.io/static/media/ibmImage2.d1c445977c6ae36abd5c.png",
+    "static/media/Moon.png": "/carenmiranda.github.io/static/media/Moon.826e55d1113c248bbbb1.png",
+    "static/media/uniImage.jpg": "/carenmiranda.github.io/static/media/uniImage.3aa8c6ccbc7309bf0888.jpg",
+    "static/media/linkedInLogo.png": "/carenmiranda.github.io/static/media/linkedInLogo.d0c3b64bf60bcc9af58d.png",
+    "index.html": "/carenmiranda.github.io/index.html",
+    "main.31af12d5.css.map": "/carenmiranda.github.io/static/css/main.31af12d5.css.map",
+    "main.b196229c.js.map": "/carenmiranda.github.io/static/js/main.b196229c.js.map"
   },
   "entrypoints": [
-    "static/css/main.817f2d49.css",
-    "static/js/main.2efc5a22.js"
+    "static/css/main.31af12d5.css",
+    "static/js/main.b196229c.js"
   ]
 }
