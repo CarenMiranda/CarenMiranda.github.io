@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carenmiranda.github.io/static/css/main.31af12d5.css",
-    "main.js": "/carenmiranda.github.io/static/js/main.0d6ec28d.js",
+    "main.js": "/carenmiranda.github.io/static/js/main.b196229c.js",
     "static/media/ibmImage1.png": "/carenmiranda.github.io/static/media/ibmImage1.bc58c9ac9106f8d542b0.png",
     "static/media/ibmImage3.png": "/carenmiranda.github.io/static/media/ibmImage3.232cce17565041c1a378.png",
     "static/media/ibmImage2.png": "/carenmiranda.github.io/static/media/ibmImage2.d1c445977c6ae36abd5c.png",
@@ -10,10 +10,10 @@
     "static/media/linkedInLogo.png": "/carenmiranda.github.io/static/media/linkedInLogo.d0c3b64bf60bcc9af58d.png",
     "index.html": "/carenmiranda.github.io/index.html",
     "main.31af12d5.css.map": "/carenmiranda.github.io/static/css/main.31af12d5.css.map",
-    "main.0d6ec28d.js.map": "/carenmiranda.github.io/static/js/main.0d6ec28d.js.map"
+    "main.b196229c.js.map": "/carenmiranda.github.io/static/js/main.b196229c.js.map"
   },
   "entrypoints": [
     "static/css/main.31af12d5.css",
-    "static/js/main.0d6ec28d.js"
+    "static/js/main.b196229c.js"
   ]
 }
