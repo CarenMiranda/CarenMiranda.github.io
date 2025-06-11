@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.817f2d49.css",
-    "main.js": "/static/js/main.9a427231.js",
+    "main.js": "/static/js/main.532aba42.js",
     "static/media/ibmImage1.png": "/static/media/ibmImage1.bc58c9ac9106f8d542b0.png",
     "static/media/ibmImage3.png": "/static/media/ibmImage3.232cce17565041c1a378.png",
     "static/media/ibmImage2.png": "/static/media/ibmImage2.d1c445977c6ae36abd5c.png",
@@ -12,10 +12,10 @@
     "static/media/school_image.jpg": "/static/media/school_image.6f58551f271d233942c4.jpg",
     "index.html": "/index.html",
     "main.817f2d49.css.map": "/static/css/main.817f2d49.css.map",
-    "main.9a427231.js.map": "/static/js/main.9a427231.js.map"
+    "main.532aba42.js.map": "/static/js/main.532aba42.js.map"
   },
   "entrypoints": [
     "static/css/main.817f2d49.css",
-    "static/js/main.9a427231.js"
+    "static/js/main.532aba42.js"
   ]
 }
