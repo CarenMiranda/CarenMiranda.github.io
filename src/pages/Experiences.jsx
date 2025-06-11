@@ -6,6 +6,9 @@ import img1 from "../images/ibmImage1.png";
 import img2 from "../images/ibmImage2.png";
 import img3 from "../images/ibmImage3.png";
 import uniImage from "../images/uniImage.jpg";
+import schoolImage from "../images/school_image.jpg";
+import anteamLogo from "../images/anteam_logo.jpeg";
+import mentorImage from "../images/mentorImage.jpg";
 import './Experiences.css'
 import './layout.css'
 class Experiences extends Component{
@@ -72,6 +75,9 @@ class Experiences extends Component{
                             I learned so much from this experience, and had the support of fabulous team of staff. I did not do computer science/IT for A-Levels, and it made me wish I selected it back when I was doing mine!
                         </p>
                     </div>
+                    <div>
+                        <img src={schoolImage} alt="Trinity Catholic School"/>
+                    </div>
 
                     <div>
                         <h1>Student Mentor at NTU School of Science and Technology</h1>
@@ -81,6 +87,9 @@ class Experiences extends Component{
                             questions and signpost them to the most appropriate services when required. I also worked on a mentor-to-mentor level support by taking on the role of Lead Student Mentor, futhering communciation 
                             between mentors and the Student Support Officers, thereby improving my leadership skills by taking on more responsibility. 
                         </p>
+                    </div>
+                    <div>
+                        <img src={mentorImage} alt="Mentoring event"/>
                     </div>
 
                     <div>
@@ -95,6 +104,10 @@ class Experiences extends Component{
                         I also took on the role of researching the integration of the Anteam application with e-Commerce platforms like WooCommerce via its REST API. 
                         Finally, to deliver our developments, we designed a poster and delivered a presentation to employers at the Showcase Event held at the end of our internship.
                         </p>
+                    </div>
+
+                    <div>
+                        <img src={anteamLogo} alt="Anteam Logo"/>
                     </div>
 
             </div>
