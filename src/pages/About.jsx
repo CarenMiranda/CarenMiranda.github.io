@@ -7,11 +7,10 @@ class About extends Component{
             <div className="me">
                 {/* <br/> */}
                 <p>Hello everyone! I am Caren. I would describe myself as a friendly and easy to approach individual.
-                I assure you that I will make you smile whenever I talk to you.</p>
-                <p>As for my interests, I enjoy listening to music and reading books although I must admit I am now on a 
-                hobby-hiatus mainly because of all the assignments piling up(hope you can relate!)</p>
-                <p>I was born in India and raised in London. I miss my friends terribly and can't wait to see them soon.
-                I am a Virgo by sign and a huge fan of Michael Jackson.</p>
+                I assure you that I will put a smile on your face.</p>
+                <p>As for my interests, I enjoy listening to music and reading books although I must admit I have not read in a while!
+                </p>
+                <p>I was born in India and raised in London. My favourite Michael Jackson song is 'Man in the Mirror' .</p>
                 <p>But before I sign off, I would like you to ponder on this question for a while:
                 "What do you call a cow in an earthquake?"(DON'T GOOGLE IT!!)</p>
                 <p>Have a wonderful day, every single day! Thank you for reading :)</p>
